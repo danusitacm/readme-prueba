@@ -22,3 +22,10 @@ flutter pub get
 # 3. Ejecutar (usar tu dispositivo conectado o emulador)
 flutter run
 ```
+## 📸 Capturas
+
+### Pantalla de Login
+![Texto alternativo](src/login.jpg)
+
+### Listado de Posts
+![Texto alternativo](src/posts.jpg)
