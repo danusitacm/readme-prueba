@@ -145,7 +145,8 @@ La salida correcta debe mostrar:
 ## Errores y Advertencias
 
 ### Advertencias de JDK obsoleto
+Al ejecutar `flutter run` podrían aparecer estos _warnings_:
 
-Captura de advertencia
 <img src="images/warning_java8.png" width="600" >
 
+Esto no afecta el funcionamiento de la app.
