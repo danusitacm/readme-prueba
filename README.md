@@ -5,16 +5,21 @@
 | Flutter    |  3.29.2  | 
 | Dart    | 3.7.2   | 
 | Android Studio    | 2024.3 | 
-| Android SDK  | 35.0.1 | 
+| Android SDK  | 33.0.1 | 
 
 ## Instalación Detallada
 Todos los pasos técnicos están en:  
 [**INSTALL.md**](INSTALL.md)
 
-## Ejecución
+## Ejecución del Proyecto
+Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/proyecto.git
+git clone https://github.com/jokoframework/littlecow.git
+cd littlecow
+
+# 2. Limpiar el proyecto 
+flutter clean
 
 # 2. Instalar dependencias
 flutter pub get
@@ -25,9 +30,9 @@ flutter run
 ## Capturas de Pantalla
 
 ### Pantalla de Login
-<img src="src/login.jpg" width="300" >
+<img src="images/login.jpg" width="300" >
 
 ### Listado de Posts
-<img src="src/posts.jpg" width="300">
+<img src="images/posts.jpg" width="300">
 
 ---

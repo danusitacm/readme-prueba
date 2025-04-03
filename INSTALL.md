@@ -32,7 +32,7 @@ $ ~/development/android-studio/bin/studio.sh
         - Por defecto: ~/Android/Sdk/
         - Personalizada (ej: ~/development/android-sdk/).
     - Componentes esenciales:
-        - Android SDK Platform (API 35.0.2)  
+        - Android SDK Platform (API 33)  
         - Android SDK Command-line Tools  
         - Android SDK Build-Tools  
         - Android SDK Platform-Tools  
@@ -142,3 +142,10 @@ La salida correcta debe mostrar:
 [✓] Android toolchain - develop for Android devices (Android SDK version X.X.X)
     • All Android licenses accepted.
 ```
+## Errores y Advertencias
+
+### Advertencias de JDK obsoleto
+
+Captura de advertencia
+<img src="images/warning_java8.png" width="600" >
+
