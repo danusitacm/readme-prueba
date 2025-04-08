@@ -15,8 +15,8 @@ Todos los pasos técnicos están en:
 Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/jokoframework/littlecow.git
-cd littlecow
+git clone https://github.com/repositorio.git
+cd repositorio
 
 # 2. Limpiar el proyecto 
 flutter clean
